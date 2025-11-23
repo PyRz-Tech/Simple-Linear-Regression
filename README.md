@@ -1,6 +1,7 @@
 # Simple Linear Regression – 5-Second Tutorial
 
 → Fit → Predict → Plot → Done.
+<br>
 Perfect first ML project • scikit-learn .
 
 [![read](https://img.shields.io/badge/Read_Now-0A66C2?style=flat&logo=github&logoColor=white&label=&labelColor=0A66C2&color=0A66C2)](https://github.com/PyRz-Tech/Simple-Linear-Regression/blob/main/regressionliener.md)
