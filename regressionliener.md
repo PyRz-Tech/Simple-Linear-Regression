@@ -344,4 +344,4 @@ print(f'r^2 score is : {r2_score(test_y, predict_y)}')
 
     r^2 score is : 0.8674734235783073
 ---
-[![Main Repo](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](README.md)
+[![Main Repo](https://img.shields.io/badge/Main_Repo-000000?style=flat&logo=github&logoColor=white)](README.md)
