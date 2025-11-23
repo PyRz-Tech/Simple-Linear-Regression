@@ -1,4 +1,4 @@
-# Simple Linear Regression – 5-Second Tutorial
+# Simple Linear Regression – 10-Min Tutorial
 
 → Fit → Predict → Plot → Done.
 <br>
