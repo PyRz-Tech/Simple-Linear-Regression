@@ -1,6 +1,4 @@
 # Simple Linear Regression – 10-Min Tutorial
-
-→ Fit → Predict → Plot → Done.
 <br>
 Perfect first ML project • scikit-learn .
 
